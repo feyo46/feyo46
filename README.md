@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Feyisa Asefa (feyo) 
 
-🎨 **Graphic Designer** | 🛡️ **Cybersecurity Enthusiast** | 💻 **Front-End Web Developer**  
+🎨 **Graphic Designer** | 🛡️ **Cybersecurity Student** | 💻 **Front-End Web Developer**  
 
 ## 🚀 About Me  
 🎓 Passionate about blending creativity with technology. I specialize in **graphics design**, **cybersecurity**, and **front-end web development**.  
@@ -10,7 +10,8 @@
 ## 🛠️ Skills  
 - 🎨 Graphic Design (Adobe Photoshop, Illustrator, Figma)  
 - 🛡️ Cybersecurity (Penetration Testing, Network Security, Ethical Hacking)  
-- 💻 Front-End Development (HTML, CSS, JavaScript, React.js)  
+- 💻 Front-End Development (HTML, CSS, JavaScript, React.js)
+- 🔹 Python for Cybersecurity 
 
 ## 📂 Projects  
 - 🎨 **[unit converter ](https://github.com/feyo46/simple-unit-converter-by-Java-netbeans-)** – by using java and netbeans.  
@@ -18,6 +19,7 @@
 
 ## 📫 Connect with Me  
 🔗 [LinkedIn](https://www.linkedin.com/in/feyisa-asefa-98284a351/)  
+📱 Telegram: [@feyisaasefa](https://t.me/@feyisaasefa)  
 📧 Email: feyisaasefa46@gmail.com 
 
 ---
