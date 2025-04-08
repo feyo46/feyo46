@@ -14,7 +14,9 @@
 - 🔹 Python for Cybersecurity 
 
 ## 📂 Projects  
-- 🎨 **[unit converter ](https://github.com/feyo46/simple-unit-converter-by-Java-netbeans-)** – by using java and netbeans.  
+- 🎨 **[unit converter ](https://github.com/feyo46/simple-unit-converter-by-Java-netbeans-)** – by using java and netbeans.
+- 🎨 **[Responsive-Landing-Page ](https://github.com/feyo46/Responsive-Landing-Page-created-using-HTML-CSS-and-JavaScript.)** – by using-HTML-CSS-and-JavaScript.
+- 🎨 **[Digital-Stopwatch](https://github.com/feyo46/Digital-Stopwatch---HTML-CSS-JavaScript)** – by using-HTML-CSS-and-JavaScript.  
 - 🔐 **[E-commerce website]()** – A web application with security best practices.    
 
 ## 📫 Connect with Me  
