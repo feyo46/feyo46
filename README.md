@@ -21,7 +21,7 @@
 
 ## 📫 Connect with Me  
 🔗 [LinkedIn](https://www.linkedin.com/in/feyisa-asefa-98284a351/)  
-📱 Telegram: [@feyisaasefa](https://t.me/@feyisaasefa)  
+📱 Telegram: telegram (https://t.me/@feyisaasefa)  
 📧 Email: feyisaasefa46@gmail.com 
 
 ---
